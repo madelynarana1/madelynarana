@@ -8,5 +8,8 @@
 <h1 align='center'> Hi! :wave:</h1>
 
 <p align='center'>For enquiries, reach out <i><b>madelynarana@gmail.com</b></i></p>
+<p></p>
 
  ![image](assets/footer.svg)
+
+ 
