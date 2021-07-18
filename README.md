@@ -6,6 +6,7 @@
 <p>
 
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>For enquiries, reach out <b>madelynarana@gmail.com</b></p>
+
+<p align='center'>For enquiries, reach out <i><b>madelynarana@gmail.com</b></i></p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
