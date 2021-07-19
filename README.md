@@ -1,4 +1,4 @@
-![image](assets/madelynarana2.svg)
+![image](assets/madelynarana.svg)
 <p align='right'>
 <a href="https://github.com/madelynarana">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelynarana&count_private=true&layout=compact" />
