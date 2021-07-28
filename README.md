@@ -7,5 +7,5 @@
 
 <p align='left'>For enquiries, reach out <i><b>madelynarana@gmail.com</b></i></p>
 
-<p align='center' width='100%'><h1><i>Thanks for reading! 💜
+<p align='center' width='100%'><h1><i>Thanks for reading me! 💜
 </i></h1></p> 
